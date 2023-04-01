@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author novio
+ *
+ */
+module CodingTest {
+}
