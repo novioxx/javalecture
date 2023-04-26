@@ -24,6 +24,7 @@ public class ChickenCoupon {
 					service += couponcnt; // 서비스 치킨 수 증가
 					remain = coupon % 10 + couponcnt; // 남은 쿠폰 수 계산
 					sum = i + service;
+					chicken = 0;
 
 				}
 			}

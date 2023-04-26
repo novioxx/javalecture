@@ -6,6 +6,10 @@ public class HyundaiCar {
 	public String color;
 	public int price;
 	
+	public HyundaiCar(String string, int i) {
+		// TODO Auto-generated constructor stub
+	}
+
 	public void carInfo() {
 		System.out.println("제조사: " + company);
 		System.out.println("모델: " + model);
