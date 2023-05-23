@@ -24,7 +24,7 @@ public class _lotto {
         int max = same + zero;
                
         //answer{일치개수, 등수}
-        int[]answer = {Math.max(7 - max, 6), Math.min(7 - min, 6)};
+        int[]answer = {Math.min(7 - max, 6), Math.min(7 - min, 6)};
      
         return answer;
     }
