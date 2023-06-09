@@ -13,7 +13,7 @@ public class _05 {
         for(int i = start; i <= end; i++)
         	list.add(i);
    
-        return list;
+        return list; 
     }
 }
 
