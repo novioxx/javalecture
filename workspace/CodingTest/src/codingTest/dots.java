@@ -1,7 +1,7 @@
 package codingTest;
 
 public class dots {
-		public solution(int[][]dots)
+	public solution(int[][]dots) {
 	int [][]dots = new int [x][y];
 			
 		for(int i = 0; i < 3; i++) {
@@ -13,5 +13,6 @@ public class dots {
 				}
 			}
 		}
-
+		return answer;
+		}
 }

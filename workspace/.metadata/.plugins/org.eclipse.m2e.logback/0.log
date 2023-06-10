@@ -640,3 +640,4 @@ Caused by: org.codehaus.plexus.util.xml.pull.XmlPullParserException: start tag n
 2023-06-09 19:59:44,639 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\lecture\Java\workspace\Spring_Boot\src\main\resources
 2023-06-09 19:59:44,642 [Worker-1: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
 2023-06-09 19:59:44,642 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\lecture\Java\workspace\Spring_Boot\src\test\resources
+2023-06-10 15:04:02,685 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
